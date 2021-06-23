@@ -1,6 +1,6 @@
 <?php 
-	include("../comlib.php");		//使用資料庫的呼叫程式
-	include('../Connections/iot.php'); 
+	include("../comlib.php");		//共用函式程式
+	include('../Connections/iot.php'); //使用資料庫的呼叫程式
 
 ?>
 <?php

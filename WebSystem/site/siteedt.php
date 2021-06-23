@@ -1,5 +1,4 @@
 <?php 
-include("./Connections/map8key.php");
 include("../comlib.php");		//使用資料庫的呼叫程
 include('../Connections/iot.php'); 
 
