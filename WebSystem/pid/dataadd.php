@@ -1,6 +1,6 @@
 <?php 
-   	include("../sysinit.php");		//使用資料庫的呼叫程式
-   	include("../comlib.php");		//使用資料庫的呼叫程式
+   	include("../sysinit.php");		//使用系統初始化的呼叫程式
+   	include("../comlib.php");		//使用共用函式庫程式
    	include("../Connections/iotcnn.php");		//使用資料庫的呼叫程式
 		//	Connection() ;
    	
